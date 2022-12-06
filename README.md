@@ -33,7 +33,8 @@ Features supported:
   5) Made routes protected so that no one without registration can access the site.
 
   6) Context API
-
+  
+  7) Systemwide dark mode is in progress.
 
 
 
